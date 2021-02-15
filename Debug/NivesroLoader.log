@@ -1,0 +1,83 @@
+﻿  client.cpp
+c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\encrypt-decrypt.hpp(3): fatal error C1083: içerme dosyası açılamıyor: 'cryptopp/aes.h': No such file or directory
+  Tools.cpp
+c:\users\ropy\desktop\nivesroloader\nivesroloader\config\tools.hpp(4): fatal error C1083: içerme dosyası açılamıyor: 'd3dx9.h': No such file or directory
+  encrypt-decrypt.cpp
+c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\encrypt-decrypt.hpp(3): fatal error C1083: içerme dosyası açılamıyor: 'cryptopp/aes.h': No such file or directory
+  NivesroLoader.cpp
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\handleguard.h(49): error C3533: bir parametre 'auto' içeren bir tür olamaz
+  c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\handleguard.h(49): note: Tür olmayan şablon parametrelerindeki 'auto' en az '/std:c++17' gerektirir
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\handleguard.h(127): error C2975: 'close': 'blackbone::HandleGuard' için geçersiz şablon bağımsız değişkeni; derleme zamanı sabit ifadesi bekleniyor
+  c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\handleguard.h(49): note: 'close' bildirimine bakın
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\handleguard.h(128): error C2975: 'close': 'blackbone::HandleGuard' için geçersiz şablon bağımsız değişkeni; derleme zamanı sabit ifadesi bekleniyor
+  c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\handleguard.h(49): note: 'close' bildirimine bakın
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\handleguard.h(129): error C2975: 'close': 'blackbone::HandleGuard' için geçersiz şablon bağımsız değişkeni; derleme zamanı sabit ifadesi bekleniyor
+  c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\handleguard.h(49): note: 'close' bildirimine bakın
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\handleguard.h(130): error C2975: 'close': 'blackbone::HandleGuard' için geçersiz şablon bağımsız değişkeni; derleme zamanı sabit ifadesi bekleniyor
+  c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\handleguard.h(49): note: 'close' bildirimine bakın
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\handleguard.h(131): error C2975: 'close': 'blackbone::HandleGuard' için geçersiz şablon bağımsız değişkeni; derleme zamanı sabit ifadesi bekleniyor
+  c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\handleguard.h(49): note: 'close' bildirimine bakın
+  class template optional is only available with C++17 or later.
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\callresult.h(16): error C2039: 'optional': bir 'std' üyesi değil
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\map(20): note: 'std' bildirimine bakın
+  c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\callresult.h(43): note: derlenmekte olan '<Bilinmiyor>' adlı sınıf <Bilinmiyor> örneği oluşturma başvurusuna bakın
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\callresult.h(16): error C2143: sözdizimi hatası: ';' eksik ('<' öncesinde)
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\callresult.h(16): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\callresult.h(16): error C2039: 'nullopt': bir 'std' üyesi değil
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\map(20): note: 'std' bildirimine bakın
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\callresult.h(16): error C2238: ';' öncesinde beklenmeyen belirteçler
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\callresult.h(22): error C3861: 'result_data': tanımlayıcı bulunamadı
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\callresult.h(24): error C3861: 'result_data': tanımlayıcı bulunamadı
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\callresult.h(34): error C3861: 'result_data': tanımlayıcı bulunamadı
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\callresult.h(35): error C3861: 'result_data': tanımlayıcı bulunamadı
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\callresult.h(36): error C3861: 'result_data': tanımlayıcı bulunamadı
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\callresult.h(39): error C3861: 'result_data': tanımlayıcı bulunamadı
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\callresult.h(41): error C3861: 'result_data': tanımlayıcı bulunamadı
+c:\users\ropy\desktop\nivesroloader\ext\blackbone\src\blackbone\include\callresult.h(42): error C3861: 'result_data': tanımlayıcı bulunamadı
+c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(72): error C3533: bir parametre 'auto' içeren bir tür olamaz
+  c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(72): note: Tür olmayan şablon parametrelerindeki 'auto' en az '/std:c++17' gerektirir
+c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(83): error C3533: bir parametre 'auto' içeren bir tür olamaz
+  c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(83): note: Tür olmayan şablon parametrelerindeki 'auto' en az '/std:c++17' gerektirir
+c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(166): error C7518: katlama ifadeleri en az '/std:c++17' gerektirir
+  c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(166): note: Derleyicinin oluşturduğu 'void jm::xor_string<T,Keys...>::_crypt_256(const uint64_t *,std::integer_sequence<unsigned int,_Idxs...>) noexcept' işlevinde bu tanılama oluştu
+  c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(235): note: derlenmekte olan '<Bilinmiyor>' adlı sınıf <Bilinmiyor> örneği oluşturma başvurusuna bakın
+c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(182): error C7518: katlama ifadeleri en az '/std:c++17' gerektirir
+  c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(182): note: Derleyicinin oluşturduğu 'void jm::xor_string<T,Keys...>::_crypt_128(const uint64_t *,std::integer_sequence<unsigned int,_Idxs...>) noexcept' işlevinde bu tanılama oluştu
+c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\encrypt-decrypt.hpp(3): fatal error C1083: içerme dosyası açılamıyor: 'cryptopp/aes.h': No such file or directory
+  sha512.cpp
+  process_helper.cpp
+c:\users\ropy\desktop\nivesroloader\nivesroloader\utilities\process_helper.cpp(13): error C2664: 'int strcmp(const char *,const char *)' : 1 bağımsız değişkeni 'WCHAR [260]' değerinden 'const char *' değerine dönüştürülemez
+  c:\users\ropy\desktop\nivesroloader\nivesroloader\utilities\process_helper.cpp(13): note: İşaretlenen türler ilgisiz; dönüştürme reinterpret_cast, C stili tür dönüştürme veya işlev stili tür dönüştürme gerektiriyor
+c:\users\ropy\desktop\nivesroloader\nivesroloader\utilities\process_helper.cpp(37): error C2664: 'int strcmp(const char *,const char *)' : 1 bağımsız değişkeni 'WCHAR [260]' değerinden 'const char *' değerine dönüştürülemez
+  c:\users\ropy\desktop\nivesroloader\nivesroloader\utilities\process_helper.cpp(37): note: İşaretlenen türler ilgisiz; dönüştürme reinterpret_cast, C stili tür dönüştürme veya işlev stili tür dönüştürme gerektiriyor
+  utilities.cpp
+c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(72): error C3533: bir parametre 'auto' içeren bir tür olamaz
+  c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(72): note: Tür olmayan şablon parametrelerindeki 'auto' en az '/std:c++17' gerektirir
+c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(83): error C3533: bir parametre 'auto' içeren bir tür olamaz
+  c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(83): note: Tür olmayan şablon parametrelerindeki 'auto' en az '/std:c++17' gerektirir
+c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(166): error C7518: katlama ifadeleri en az '/std:c++17' gerektirir
+  c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(166): note: Derleyicinin oluşturduğu 'void jm::xor_string<T,Keys...>::_crypt_256(const uint64_t *,std::integer_sequence<unsigned int,Idxs...>) noexcept' işlevinde bu tanılama oluştu
+  c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(235): note: derlenmekte olan '<Bilinmiyor>' adlı sınıf <Bilinmiyor> örneği oluşturma başvurusuna bakın
+c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(182): error C7518: katlama ifadeleri en az '/std:c++17' gerektirir
+  c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(182): note: Derleyicinin oluşturduğu 'void jm::xor_string<T,Keys...>::_crypt_128(const uint64_t *,std::integer_sequence<unsigned int,Idxs...>) noexcept' işlevinde bu tanılama oluştu
+c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(242): error C2975: 'Cs': 'jm::detail::tstring_' için geçersiz şablon bağımsız değişkeni; derleme zamanı sabit ifadesi bekleniyor
+  c:\users\ropy\desktop\nivesroloader\nivesroloader\encrypt-decrypt\xorstr.hpp(83): note: 'Cs' bildirimine bakın
+  c:\users\ropy\desktop\nivesroloader\nivesroloader\globals.hpp(10): note: derlenen şablon işlevi 'auto jm::make_xorstr<globals::<unnamed-type-server_side>::<lambda_54440c2c52a11e28c01c3399795a7071>,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,0,1,2,3>(Tstr,std::integer_sequence<unsigned int,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19>,std::integer_sequence<unsigned int,0,1,2,3>) noexcept' örneği oluşturma başvurusuna bakın
+          with
+          [
+              Tstr=globals::<unnamed-type-server_side>::<lambda_54440c2c52a11e28c01c3399795a7071>
+          ]
+c:\users\ropy\desktop\nivesroloader\nivesroloader\globals.hpp(10): error C2664: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)' : 1 bağımsız değişkeni 'int *' değerinden 'std::initializer_list<_Elem>' değerine dönüştürülemez
+          with
+          [
+              _Elem=char
+          ]
+  c:\users\ropy\desktop\nivesroloader\nivesroloader\globals.hpp(10): note: Kaynak türünü hiçbir oluşturucu alamadı veya oluşturucu aşırı yük çözümü belirsizdi
+c:\users\ropy\desktop\nivesroloader\nivesroloader\globals.hpp(22): error C2664: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)' : 1 bağımsız değişkeni 'int *' değerinden 'std::initializer_list<_Elem>' değerine dönüştürülemez
+          with
+          [
+              _Elem=char
+          ]
+  c:\users\ropy\desktop\nivesroloader\nivesroloader\globals.hpp(22): note: Kaynak türünü hiçbir oluşturucu alamadı veya oluşturucu aşırı yük çözümü belirsizdi
+c:\users\ropy\desktop\nivesroloader\nivesroloader\config\tools.hpp(4): fatal error C1083: içerme dosyası açılamıyor: 'd3dx9.h': No such file or directory
+  Kod Üretiliyor...

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\client">
+      <UniqueIdentifier>{4d02192e-5771-495a-8b3b-9aba1fee6890}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\encrypt-decrypt">
+      <UniqueIdentifier>{3952d984-1fd7-440b-ac47-814d3b8a80da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\utilities">
+      <UniqueIdentifier>{bf708d9e-a597-479b-855c-de9f2aec9509}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\config">
+      <UniqueIdentifier>{8cb08fb1-658e-4db1-b8ff-9b80db169159}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\sha512">
+      <UniqueIdentifier>{077d146f-f9e2-4475-b8b4-29d5eeb4905a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="NivesroLoader.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="client\client.cpp">
+      <Filter>Исходные файлы\client</Filter>
+    </ClCompile>
+    <ClCompile Include="encrypt-decrypt\encrypt-decrypt.cpp">
+      <Filter>Исходные файлы\encrypt-decrypt</Filter>
+    </ClCompile>
+    <ClCompile Include="utilities\process_helper.cpp">
+      <Filter>Исходные файлы\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="utilities\utilities.cpp">
+      <Filter>Исходные файлы\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="config\Tools.cpp">
+      <Filter>Исходные файлы\config</Filter>
+    </ClCompile>
+    <ClCompile Include="sha512\sha512.cpp">
+      <Filter>Исходные файлы\sha512</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="client\client.hpp">
+      <Filter>Исходные файлы\client</Filter>
+    </ClInclude>
+    <ClInclude Include="encrypt-decrypt\encrypt-decrypt.hpp">
+      <Filter>Исходные файлы\encrypt-decrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="encrypt-decrypt\md5.hpp">
+      <Filter>Исходные файлы\encrypt-decrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="encrypt-decrypt\xorstr.hpp">
+      <Filter>Исходные файлы\encrypt-decrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="utilities\lazy_importer.hpp">
+      <Filter>Исходные файлы\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="utilities\process_helper.hpp">
+      <Filter>Исходные файлы\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="utilities\utilities.hpp">
+      <Filter>Исходные файлы\utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="globals.hpp">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="include.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="config\Tools.hpp">
+      <Filter>Исходные файлы\config</Filter>
+    </ClInclude>
+    <ClInclude Include="sha512\sha512.hpp">
+      <Filter>Исходные файлы\sha512</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
